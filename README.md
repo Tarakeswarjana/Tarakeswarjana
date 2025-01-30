@@ -81,6 +81,6 @@
 <br></div>
 
 <h2 align="left">🏆 Github trophies:</h2>
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ayand269&theme=onedark" alt="Ayan Das" /> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Tarakeswarjana&theme=onedark" alt="Ayan Das" /> </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
