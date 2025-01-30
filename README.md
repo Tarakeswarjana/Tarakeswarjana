@@ -58,10 +58,10 @@
 	<a href="https://github.com/Tarakeswarjana">
 	<img 
 	  height="180em" 
-	  src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayand269&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" 
+	  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tarakeswarjana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" 
 	  alt="Ayan Das"
 	/>
-	  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayand269&layout=compact&langs_count=8&theme=algolia" alt="Ayan Das"/>
+	  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tarakeswarjana&layout=compact&langs_count=8&theme=algolia" alt="Ayan Das"/>
 	</a>
 </p>
 
