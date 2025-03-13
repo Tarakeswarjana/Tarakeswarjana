@@ -9,13 +9,13 @@
   <img src="https://komarev.com/ghpvc/?username=ayand269&color=blueviolet&style=flat">
 </p>  -->
 
-- 🌱 I’m currently working **Redux, React Native, Flutter, React JS, Typescript, Node JS, etc.**
+- 🌱 I’m currently working **Redux, React Native, React JS, Typescript, Node JS, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Tarakeswarjana)
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **ayand269@gmail.com**
+- 📫 How to reach me **tarakeswarjana0808@gmail.com**
 
 
 	
@@ -33,7 +33,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React.j](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
@@ -59,7 +59,7 @@
 	<img 
 	  height="180em" 
 	  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tarakeswarjana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" 
-	  alt="Ayan Das"
+	  alt="Tarakeswar jana"
 	/>
 	  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tarakeswarjana&layout=compact&langs_count=8&theme=algolia" alt="Ayan Das"/>
 	</a>
@@ -69,9 +69,8 @@
 
 <p>
 	<a href="https://www.linkedin.com/in/ayan-das-838601216"><img src="https://img.shields.io/badge/Ayan-Das-22372b153?style=flat&logo=Linkedin&logoColor=white" alt="Ayan Das"/></a>
-	<a href="mailto:ayand269@gmail.com"><img src="https://img.shields.io/badge/-ayand269@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Ayan Das"/></a>
-	<a href="https://x.com/ayand269"><img src="https://img.shields.io/badge/-@ayand269-000000?style=flat&logo=X&logoColor=white" alt="Ayan Das"/></a>
-	<a href="https://facebook.com/ayand269"><img src="https://img.shields.io/badge/-@ayand269-1877F2?style=flat&logo=Facebook&logoColor=white" alt="Ayan Das"/></a>
+	<a href="mailto:tarakeswarjana0808@gmail.com"><img src="https://img.shields.io/badge/-tarakeswarjana0808@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Ayan Das"/></a>
+	</a>
 	<a href="https://instagram.com/ayand269"><img src="https://img.shields.io/badge/-@ayand269-e1306c?style=flat&logo=Instagram&logoColor=white" alt="Ayan Das"/></a>
 </p>
 
