@@ -68,7 +68,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-	<a href="https://www.linkedin.com/in/tarakeswar-jana-5a3513233/"><img src="https://img.shields.io/badge/Ayan-Das-22372b153?style=flat&logo=Linkedin&logoColor=white" alt="Tarakeswar jana"/></a>
+	<a href="https://www.linkedin.com/in/tarakeswar-jana-5a3513233/"><img src="https://img.shields.io/badge/Tarakeswar jana-22372b153?style=flat&logo=Linkedin&logoColor=white" alt="Tarakeswar jana"/></a>
 	<a href="mailto:tarakeswarjana0808@gmail.com"><img src="https://img.shields.io/badge/-tarakeswarjana0808@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Ayan Das"/></a>
 	</a>
 	
